@@ -1,7 +1,0 @@
-[submodule "frontend"]
-    path = frontend
-    url = https://github.com/Jesus123J/racoon_brothers_frontend.git
-
-[submodule "backend"]
-    path = backend
-    url = https://github.com/Jesus123J/racoon_brothers_backend.git
