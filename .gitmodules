@@ -7,3 +7,8 @@
     path = backend
     url = https://github.com/Jesus123J/racoon_brothers_backend.git
     branch = main
+
+[submodule "racoon-brothers-old"]
+	path = racoon-brothers-old
+	url = https://github.com/Jesus123J/racoon-brothers-old.git
+    branch = main
